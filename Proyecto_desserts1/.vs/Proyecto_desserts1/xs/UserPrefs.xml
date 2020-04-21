@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CA77CFFD-D85A-484B-9B4A-641B7670A1F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto_desserts1/AppSettings.cs">
+    <Files>
+      <File FileName="Proyecto_desserts1/Views/ItemsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Proyecto_desserts1/Views/ItemsPage.xaml" />
+      <File FileName="Proyecto_desserts1/App.xaml" />
+      <File FileName="Proyecto_desserts1/Models/Dessert.cs" />
+      <File FileName="Proyecto_desserts1/Services/CosmosDBServices.cs" />
+      <File FileName="Proyecto_desserts1/Services/ICosmosBDService.cs" />
+      <File FileName="Proyecto_desserts1/AppSettings.cs" Line="9" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proyecto_desserts1" expanded="True">
+            <Node name="Proyecto_desserts1" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="AppSettings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Proyecto__desserts1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A3C14698-97BE-43DD-8F92-DD0AA516B3E9" />
+  <MonoDevelop.Ide.ItemProperties.Proyecto__desserts1.Android PreferredExecutionTarget="Android.Nexus_S_API_23" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
